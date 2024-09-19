@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 100px;
+}
+.okay1{
+    float: left;
+}
+.okay2{
+    float: right;
+}
+.okay3{
+    float: left;
+}
+p{
+    font-size: 20px;
+}
+body{
+    background-color: green;
+}

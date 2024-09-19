@@ -1,0 +1,106 @@
+
+p{
+    /* background-color: orange; */
+    color: black;
+} */ */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: lawngreen;
+    color: lawngreen;
+}
+
+.one{
+    text-align: center;
+    background-color: lawngreen;
+    position: fixed;
+    bottom: 200px;
+    left: 25px;
+    
+    
+}
+.rr h2{
+    font-size: 40px;
+    color: black;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.one p{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.one h3{
+    font-size: 20px;
+    margin-bottom:30px;
+}
+
+.two{
+    background-color: lawngreen;
+    text-align: center;
+    position: fixed;
+    bottom: 200px;
+    left: 450px;
+}
+
+.two h3{
+    font-size: 20px;
+    margin-bottom:30px;
+}
+
+.two p{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+
+.three{
+    background-color: lawngreen;
+    text-align: center;
+    position: fixed;
+    bottom: 210px;
+    left: 900px;
+}
+
+.three p{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.three h3{
+    font-size: 20px;
+    margin-bottom:25px;
+}
+
+.tt{
+    font-size: 70px;
+    position: fixed;
+    bottom: 380px;
+    left: 180px;
+}
+
+.uu{
+    font-size: 70px;
+    position: fixed;
+    bottom: 380px;
+    left: 1060px;
+}
+.yy{
+    font-size: 70px;
+}
+div{
+    background-color: lawngreen;
+}
+body{
+    background-color: lawngreen;
+}
